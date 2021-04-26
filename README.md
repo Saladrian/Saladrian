@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Saladrian
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python
