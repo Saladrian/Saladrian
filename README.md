@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Saladrian
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 👀 I’m a programmer
+- 🌱 I’m currently programming in Python and C++
