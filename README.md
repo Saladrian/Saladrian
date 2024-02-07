@@ -1,10 +1,12 @@
-My name is Adrian, I am currently 18 years old and I am from Germany.
+# Heyy! I'm Saldrian.
+I am currently 20 years old and live in Germany.
 
-I started learning programming when I was 12 years old and I'm actively programming since I'm 15 years old.
+## About me
+My main progamming language is Python, although I also progam in Java and C++.
 
-Current Projects:
-• Ryuu (Private): A Discord Bot for my own Server
+I started learning programming when I was 12 years old and I've been actively programming since I was 15.
 
-• I am working with my classmate on a project for Jugend Forscht. Our project is an automated greenhouse with sensors. (Automated Greenhouse)
 
-If you want to contact me, it's best to use Discord, I'm most active there: 'Saladrian#0414'.
+### Contact me
+If you want to contact me, use Discord, I'm most active there: 'saladrian'.
+
